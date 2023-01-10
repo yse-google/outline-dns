@@ -1,2 +1,2 @@
 # outline-dns
-anti-censorship DNS lookup library
+Anti-censorship DNS lookup library
